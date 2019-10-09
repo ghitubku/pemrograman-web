@@ -1,0 +1,219 @@
+body {
+	background-color:purple;
+	text-align:center;
+	font-family:Verdana,Tahoma,Helvetica;
+	font-size:12px;
+}
+
+
+#layout {
+	background:#fff;
+	width:980px;
+	margin:auto;
+	text-align:left;
+	padding:2px;
+}
+#header {
+	width:100%;
+	height:130px;
+	background-color:#02a2dB;
+	position:relative;
+}
+.header {
+	width:100%;
+	height:130px;
+}
+
+
+#menu {
+	width:100%;
+	height:40px;
+	background-color:grey;
+	position:relative;
+}
+#menu ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+#menu ul li {
+	float:left;
+}
+#menu ul li a {
+	float:left;
+	color:maroon;
+	padding:12px 20px;
+	text-decoration:none;
+	background:silver;
+	border-left:1px solid #3C4042;
+	border-right:1px solid #3C4042;
+}
+#menu ul li a:hover {
+	color:white;
+	background:#00d32d;
+}
+
+
+#runningtext {
+	width:100%;
+	height:25px;
+	padding-top:7px;
+	margin:5px 0 5px 0;
+	background-color:navy;
+	color:white;
+	position:relative;
+}
+
+
+#sidebar {
+	padding:5px;
+	width:27%;
+	background-color:#d3beaa;
+	position:relative;
+	float:right;
+	border-style:dotted;
+	border-width:1px;
+}
+.widged {
+	width:99%
+	background-bottom:7px;
+	background:#ffffff;
+	border-top:1px solid #DEDEDE;
+	border-bottom:1px solid #DEDEDE;
+	border-right:1px solid #DEDEDE;
+	border-left:1px solid #DEDEDE;
+	font-size:100%;
+	margin:0px 0px 5px 0px;
+}
+.gambariklan {
+	width:99%;
+	height:150px;
+}
+.judulwidged {
+	background:#d74006;
+	padding:5px 10px 5px 10px;
+	margin:0px 0px 0px 0px;
+	text-align:center;
+	color:black;
+	font-weight:bold;
+	font-size:15px;
+	margin-bottom:5px;
+}
+.widged ul {
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	list-style-type:none;
+}
+.widged li {
+	padding:0px 0px 0px 0px;
+	background-position:left;
+	background-repeat:no-repeat;
+	color:#333333;
+}
+.widged li a {
+	color:#333333;
+	border-bottom:1px dotted #cccccc;
+	text-decoration:none;
+	display:block;
+	margin-bottom:5px;
+	padding:4px 5px 3px 10px;
+}
+.widged li a:hover {
+	color:blue;
+}
+
+
+#isi {
+	padding:5px;
+	width:70%;
+	height:auto;
+	background-color:#ba7584;
+	position:relative;
+	margin-top:5px;
+}
+.isiposting {
+	background-color:blue;
+	width:98%;
+	height:150px;
+	margin-bottom:5px;
+	padding:5px;
+}
+.gambardepan {
+	float:left;
+	height:140px;
+	width:150px;
+	margin-right:5px;
+	margin-top:3px;
+	padding:1px;
+	border:1px solid #dddddd;
+}
+.isiposting h2 {
+	font-size:20px;
+	font-weight:bold;
+	color:white;
+	margin-top:4px;
+	margin-bottom:3px;
+}
+.isiposting a {
+	text-decoration:none;
+}
+.isiposting a:hover{
+	color:yellow;
+}
+
+#ttngsaya {
+	padding:5px;
+	width:70%;
+	height:auto;
+	background-color:#2bc463;
+	position:relative;
+	margin-top:5px;
+	border:2px solid #000
+}
+.profil {
+	width:200px;
+	height:200px;
+	display:block;
+	float:right;
+	padding-right:5px;
+}
+.tentangsaya {
+	text-align:center;
+	color:white;
+	font-size:20px;
+	font-weight:bold;
+}
+
+
+#footer {
+	width:100%;
+	height:35px;
+	margin-top:5px;
+	padding-top:15px;
+	background-color:#49494e;
+	color:white;
+	font-size:10.5pt;
+	position:relative;
+	clear:both;
+	text-align:center;
+}
+
+
+#kontak {
+	padding:5px;
+	margin:auto;
+	font-size:14px;
+	background-color:#eaeaea;
+}
+#kontak h2 {
+	height:40px;
+	color:#000;
+	text-align:center;
+	padding-top:4px;
+	padding-bottom:4px;
+}
+.inputtext {
+	font-family:arial;
+	font-size:12;
+}
+	
